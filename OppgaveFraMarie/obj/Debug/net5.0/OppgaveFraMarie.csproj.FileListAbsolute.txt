@@ -1,0 +1,16 @@
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\bin\Debug\net5.0\OppgaveFraMarie.exe
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\bin\Debug\net5.0\OppgaveFraMarie.deps.json
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\bin\Debug\net5.0\OppgaveFraMarie.runtimeconfig.json
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\bin\Debug\net5.0\OppgaveFraMarie.runtimeconfig.dev.json
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\bin\Debug\net5.0\OppgaveFraMarie.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\bin\Debug\net5.0\ref\OppgaveFraMarie.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\bin\Debug\net5.0\OppgaveFraMarie.pdb
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\obj\Debug\net5.0\OppgaveFraMarie.csproj.AssemblyReference.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\obj\Debug\net5.0\OppgaveFraMarie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\obj\Debug\net5.0\OppgaveFraMarie.AssemblyInfoInputs.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\obj\Debug\net5.0\OppgaveFraMarie.AssemblyInfo.cs
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\obj\Debug\net5.0\OppgaveFraMarie.csproj.CoreCompileInputs.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\obj\Debug\net5.0\OppgaveFraMarie.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\obj\Debug\net5.0\ref\OppgaveFraMarie.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\obj\Debug\net5.0\OppgaveFraMarie.pdb
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\OppgaveFraMarie\obj\Debug\net5.0\OppgaveFraMarie.genruntimeconfig.cache
